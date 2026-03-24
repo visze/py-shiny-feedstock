@@ -69,7 +69,7 @@ about:
   license_file:
     - LICENSE
     - shiny/www/shared/highlight/LICENSE
-    - shiny/www/shared/showdown/license.txt
+    - shiny/www/shared/highlight/LICENSE
     - shiny/www/shared/jqueryui/LICENSE.txt
   description: |
     # Shiny for Python
